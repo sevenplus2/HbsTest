@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/JAR Files/hbase-common-1.2.0-cdh5.14.0.jar"/>
+	<classpathentry kind="lib" path="C:/JAR Files/hbase-server-1.2.0-cdh5.14.0.jar"/>
+	<classpathentry kind="lib" path="C:/JAR Files/hbase-client-1.2.0-cdh5.14.0.jar"/>
+	<classpathentry kind="lib" path="C:/JAR Files/hadoop-common-2.6.0-cdh5.14.0.jar"/>
+	<classpathentry kind="lib" path="C:/JAR Files/slf4j-log4j12-1.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/JAR Files/guava-12.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/JAR Files/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/JAR Files/zookeeper-3.4.6.jar"/>
+	<classpathentry kind="lib" path="C:/JAR Files/slf4j-api-1.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/JAR Files/commons-lang-2.5.jar"/>
+	<classpathentry kind="lib" path="C:/JAR Files/commons-collections-3.2.2.jar"/>
+	<classpathentry kind="lib" path="C:/JAR Files/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="C:/JAR Files/commons-configuration-1.10.jar"/>
+	<classpathentry kind="lib" path="C:/JAR Files/hadoop-auth-2.6.0-cdh5.14.0.jar"/>
+	<classpathentry kind="lib" path="C:/JAR Files/htrace-core-3.1.0-incubating.jar"/>
+	<classpathentry kind="lib" path="C:/JAR Files/htrace-core4-4.0.1-incubating.jar"/>
+	<classpathentry kind="lib" path="C:/JAR Files/metrics-core-2.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/JAR Files/hbase-protocol-1.2.0-cdh5.14.0.jar"/>
+	<classpathentry kind="lib" path="C:/JAR Files/protobuf-java-2.5.0.jar"/>
+	<classpathentry kind="lib" path="C:/JAR Files/commons-codec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/JAR Files/jackson-mapper-asl-1.9.2.jar"/>
+	<classpathentry kind="lib" path="C:/JAR Files/mysql-connector-java.jar"/>
+	<classpathentry kind="lib" path="C:/JAR Files/jolt-core-0.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/JAR Files/json-utils-0.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/JAR Files/jackson-core-2.9.6.jar"/>
+	<classpathentry kind="lib" path="C:/JAR Files/com.fasterxml.jackson.databind.jar"/>
+	<classpathentry kind="lib" path="C:/JAR Files/jackson-annotations-2.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/JAR Files/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="C:/JAR Files/opencsv-4.3.2.jar"/>
+	<classpathentry kind="lib" path="C:/JAR Files/json-20171018.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
